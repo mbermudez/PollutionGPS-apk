@@ -11,6 +11,7 @@ You need to share the cellphone data connection with the sensor and configure th
 <img src="./images/015.png" width="200">
 </p>
 More instructions soon...
+
 This app was developed to provide independent measures of air pollution in Granada, thanks to the NGO [Andalucia Acción en Red](https://www.accionenred-andalucia.org/).
 <p align="right">
 <img src="./images/logo.png" width="50">
